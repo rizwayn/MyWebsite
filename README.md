@@ -1,4 +1,4 @@
-<h1>Willkommen auf meiner Website</h1>
+<h1>Willkommen auf meinem Blog</h1>
 <br>
-<p> Mein Name ist... und das hier ist meine erste Website.</p>
+<p> Mein Name ist Rizwan und das hier ist mein erster Blog.</p>
 <br>
